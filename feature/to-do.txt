@@ -1,0 +1,4 @@
+echo "Buy groceries" > to-do.txt
+echo "Finish assignment" >> to-do.txt
+git add to-do.txt
+git commit -m "Created to-do.txt with initial tasks"
