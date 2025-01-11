@@ -1,0 +1,3 @@
+git branch feature/to-do-list
+git checkout feature/to-do-list
+git checkout -b feature/to-do-list
